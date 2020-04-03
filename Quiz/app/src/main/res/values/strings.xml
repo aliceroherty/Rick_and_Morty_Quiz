@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Rick and Morty Quiz</string>
+    <string name="true_button_text">True</string>
+    <string name="false_button_text">False</string>
+    <string name="next_button_text">&gt;</string>
+    <string name="back_button_text">&lt;</string>
+    <string name="cheat_button_text">Cheat</string>
+    <string name="are_you_sure">Are you sure you want to do this?</string>
+
+    <!--Questions-->
+    <string name="question_1">The Rick &amp; Morty That The Show Follows Are Originally From Dimension C-173</string>
+    <string name="question_2">Jerry\'s Station Wagon Is Based On The Car From National Lampoon\'s Vacation?</string>
+    <string name="question_3">Rick &amp; Morty Have Appeared In The Opening Title Screen Of The Simpsons?</string>
+    <string name="question_4">Jaguar From \'Pickle Rick\' Had His Own Spin Off Show With Adult Swim?</string>
+    <string name="question_5">Two Brothers\' Is The First Show Rick &amp; Morty Watch On Inter-Dimensional Cable?</string>
+    <string name="question_6">According To Dan Harmon, A Schmeckle Is Worth $148?</string>
+    <string name="question_7">The Bloomflark Is The Universal Currency For The Galactic Federation?</string>
+    <string name="question_8">When Bird-Person Is \'Reborn\' He Is Dubbed Phoenix-Bird?</string>
+    <string name="question_9">Doctor Neon Bloom Runs Anatomy Park?</string>
+    <string name="question_10">When Snuffles Is Able To Talk, He Changes His Name To Snowball?</string>
+    <string name="question_11">"Wubba Lubba Dub Dub" Means \'Let\'s Party\'?</string>
+    <string name="question_12">Leading Up To The First Episode, Rick Had Left Beth And The Family For 10 Year</string>
+    <string name="question_13">In \'Total Rickall\', The Only Character That Isn\'t A Parasite Is Pencilvester?</string>
+    <string name="question_14">Tammy Killed Bird-Person On Their Wedding Day?</string>
+    <string name="question_15">When Being Scammed By The Zigereons, Rick\'s Safe Code Is \'1-3-5-3\'?</string>
+    <string name="question_16">Ice-T\'s Real Name On Alphabetrium Was H2O-T?</string>
+    <string name="question_17">When Jerry &amp; Beth Split Up, Jerry Enters A Relationship With A Krootabulan?</string>
+    <string name="question_18">The Episode \'Something Ricked This Way\' Is A Parody Of An Edgar Allen Poe Poem</string>
+    <string name="question_19">Rick\'s Hivemind Ex-Lover Is Called Purity?</string>
+    <string name="question_20">The Conjoint Twin That Simultaneously Host The News &amp;v A Cooking Show Are Called Michael &amp; Pichael?</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel_button_text">Cancel</string>
+    <string name="about_text">About</string>
+    <string name="hamburger_about_text">About Rick and Morty</string>
+    <string name="about_description">After having been missing for nearly 20 years, Rick Sanchez suddenly arrives at daughter Beth\'s doorstep to move in with her and her family. Although Beth welcomes Rick into her home, her husband, Jerry, isn\'t as happy about the family reunion. Jerry is concerned about Rick, a sociopathic scientist, using the garage as his personal laboratory. In the lab, Rick works on a number of sci-fi gadgets, some of which could be considered dangerous. But that\'s not all Rick does that concerns Jerry. He also goes on adventures across the universe that often involve his grandchildren, Morty and Summer.</string>
+
+    <string name="score_format">Score: %s</string>
+</resources>

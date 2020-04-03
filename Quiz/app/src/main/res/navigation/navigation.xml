@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/gameFragment">
+
+    <fragment
+        android:id="@+id/gameFragment"
+        android:name="com.nbcc.assignment1.GameFragment"
+        android:label="Rick and Morty Quiz"
+        tools:layout="@layout/fragment_game">
+        <action
+            android:id="@+id/action_gameFragment_to_cheatFragment"
+            app:destination="@id/cheatFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/cheatFragment"
+        android:name="com.nbcc.assignment1.CheatFragment"
+        android:label="Cheat?"
+        tools:layout="@layout/fragment_cheat">
+        <action
+            android:id="@+id/action_cheatFragment_to_gameFragment"
+            app:destination="@id/gameFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.nbcc.assignment1.AboutFragment"
+        android:label="About"
+        tools:layout="@layout/fragment_about" />
+</navigation>
